@@ -1,4 +1,4 @@
 # Process_Notebook_COVID
-Individual component of a larger group assignment, where each member had to perform individual analysis on COVID data on a specific country. All the process notebooks were then compiled into a single Product Notebook.  
+This project represented an individual component within a larger group assignment. In this assignment, each team member was responsible for conducting an independent analysis of COVID data for a specific country. The country I decided to analyse was Malaysia. Subsequently, all the individual process notebooks were consolidated into a single Product Notebook for the final submission.
 
-Notebook contains EDA process, and a simple function I coded to create and fill dataframe with random variables for testing purposes. 
+The Product Notebook encompasses an Exploratory Data Analysis (EDA) process and incorporates a simple function that I authored. This function's purpose is to generate and populate a Pandas dataframe with random values for all the values, which is crucial for testing and evaluation. This step ensures the reliability of re-used functions within the broader Product Notebook and serves the important role of confirming that no hardcoding was employed, thereby promoting modularity in the functions.
